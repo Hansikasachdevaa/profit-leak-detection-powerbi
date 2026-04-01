@@ -29,7 +29,8 @@ A $2.3M revenue portfolio was silently losing profit due to:
 ## 📊 Dashboard Views
 
 ### 1. Executive Overview
-![Executive](dashboard/executive-overview.png)
+
+<img width="1908" height="723" alt="Screenshot 2026-04-01 220627" src="https://github.com/user-attachments/assets/17858e9b-53d2-43bb-b775-5994ffa15c7d" />
 
 - Revenue: $2.3M
 - Profit: $286K
@@ -39,7 +40,8 @@ A $2.3M revenue portfolio was silently losing profit due to:
 ---
 
 ### 2. Category & Product Analysis
-![Category](dashboard/category-product-analysis.png)
+
+<img width="1905" height="726" alt="Screenshot 2026-04-01 220648" src="https://github.com/user-attachments/assets/d34cdec9-e4dc-4ecc-bb99-818ca0a59ead" />
 
 - Furniture = **−$17K loss**
 - Tables sub-category = worst performer
@@ -48,7 +50,8 @@ A $2.3M revenue portfolio was silently losing profit due to:
 ---
 
 ### 3. Geographic & Customer Risk
-![Geo](dashboard/geographic-customer-risk.png)
+
+<img width="1889" height="990" alt="Screenshot 2026-04-01 220709" src="https://github.com/user-attachments/assets/dffcd582-1416-42cc-80e1-39119ba51560" />
 
 - 10 states driving total losses
 - Texas highest loss: −$25K
