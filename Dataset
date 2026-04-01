@@ -1,0 +1,18 @@
+# Deep Dive Insights
+
+## 1. Structural Profit Leak
+Losses were not random — concentrated in:
+- 3 sub-categories
+- 10 states
+
+## 2. Discount Abuse Pattern
+High discounts (>30%) directly correlated with negative margins.
+
+## 3. Customer Risk Blind Spot
+Repeat customers were allowed to transact despite consistent losses.
+
+## 4. Revenue Illusion
+High-revenue categories masked underlying margin destruction.
+
+## 5. Operational Gap
+No real-time monitoring → delayed executive decisions
